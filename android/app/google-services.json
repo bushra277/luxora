@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810579319551",
+    "project_id": "task-flutter-deb3c",
+    "storage_bucket": "task-flutter-deb3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810579319551:android:900dab8597b30f3908caca",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrNnggXwMbISpX-KthAvB3sNB-sjn3vTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
